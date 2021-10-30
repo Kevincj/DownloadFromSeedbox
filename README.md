@@ -13,6 +13,5 @@ Password suppported on seedbox: Able to download password-protected files.
 
 ## Usage
 - Enable web access of your file directory (See [Here](https://www.feralhosting.com/wiki/slots/www/dl-via-http))
-- Modify the code and fill in your credentials if you set password access. Leave it unchanged if you do not.
+- Modify the code and fill in your credentials if you set password access. Leave it unchanged if you do not
 - Click any non-directory file, enjoy the fast-speed downloading
-- 
